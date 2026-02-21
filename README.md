@@ -2,6 +2,7 @@
 Aquí se puede ver el Análisis que realice de la muerte por Homicidios Dolosos por Narcotráfico en Argentina, se analizaran las variables y modelos adecuados a la realidad, teniendo en cuenta que la tasa de mortalidad nunca es menor a 0 o negativa 
 
 PRESENTACIÓN DE LA PROBLEMATICA
+
 El presente informe tiene el objetivo de hacer una evaluación basado en la Tasa de Mortalidad de Homicidios Dolosos en Argentina. Se selecciono esta problemática por un interés en el planteado en la tasa de mortalidad, y factores sociales en Argentina. Los homicidios dolosos por narcotráfico es una importante indicador o factor clave de violencia criminal en Argentina. El propósito del proyecto es analizar el presente problema, se observa que gracias a esto surgió una baja en la tasa de Homicidios en los últimos 7 años, con lo datos adquiridos antes de 2024, por esto se usara en 2025 para una proyección en los próximos 5 años. 
 
 DATOS
