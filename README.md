@@ -29,9 +29,9 @@ REPRESENTACIÓN GRAFICA Y SELECCION DE MODELO
   
   Justificación de Selección de Modelo: Se uso dos modelos principales para el descenso de la tasa de homicidios. Por contexto de la realidad la tasa de mortalidad nunca es menor a 0, se inicio con modelado lineal porque es el modelo mas sencillo de trabajar, pero al hacerlo también con modelo polinómico daba a una tasa negativa a 0. Al hacerlo con modelo exponencial se observo que era el único que no daba un decrecimiento menor a 0. Se la diferenció con colores para una mejor lectura. 
 
-      • Modelo Lineal (Recta Rosa): Presento un coeficiente de det. 𝑅2 ≈ 0,88 
+   • Modelo Lineal (Recta Rosa): Presento un coeficiente de det. 𝑅2 ≈ 0,88 
 
-      • Modelo Exponencial (Curva Naranja): Presento un coeficiente de det. 𝑅12 ≈ 0,87 
+   • Modelo Exponencial (Curva Naranja): Presento un coeficiente de det. 𝑅12 ≈ 0,87 
       
   Si bien se ve que matemáticamente gana el Lineal por muy poco, pero a pesar de eso se seleccionó el Modelo Exponencial solo por validación lógica y consistencia con la realidad. El modelo lineal, decrece debajo de 0 anteriormente dicho, lo mismo el modelo polinómico. El modelo exponencial (𝑦 = 𝑘 ∙ 𝑒𝑎𝑥) plantea que es infinita o más conocida como asíntota lo cual nunca toca o se aproxima infinitamente, lo cual 𝑦 = 0, lo cual implica que la violencia disminuye acercándose a 0, el comportamiento de ser decreciente no presenta una pendiente constante (como el lineal), sino una disminución acorde a como se mide la mortalidad. 
       • Función de Modelo Seleccionado: La función exponencial obtenida mediante GeoGebra 
