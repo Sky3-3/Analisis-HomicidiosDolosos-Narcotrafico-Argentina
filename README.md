@@ -2,7 +2,6 @@
 Aquí se puede ver el Análisis que realice de la muerte por Homicidios Dolosos por Narcotráfico en Argentina, se analizaran las variables y modelos adecuados a la realidad, teniendo en cuenta que la tasa de mortalidad nunca es menor a 0 o negativa 
 
 PRESENTACIÓN DE LA PROBLEMATICA
-<img width="1464" height="668" alt="Captura de pantalla 2026-02-19 140333" src="https://github.com/user-attachments/assets/7e50a388-7674-417f-9cf0-22623c6c3082" />
 El presente informe tiene el objetivo de hacer una evaluación basado en la Tasa de Mortalidad de Homicidios Dolosos en Argentina. Se selecciono esta problemática por un interés en el planteado en la tasa de mortalidad, y factores sociales en Argentina. Los homicidios dolosos por narcotráfico es una importante indicador o factor clave de violencia criminal en Argentina. El propósito del proyecto es analizar el presente problema, se observa que gracias a esto surgió una baja en la tasa de Homicidios en los últimos 7 años, con lo datos adquiridos antes de 2024, por esto se usara en 2025 para una proyección en los próximos 5 años. 
 
 DATOS
@@ -18,6 +17,7 @@ METODOLOGIA Y HERRAMIENTAS
 Para el análisis se usó GeoGebra Classic 5, para la construcción del modelo y predicción de los datos y ver la tendencia a la que tenían si subida o bajada (Regresión). Permitió que al usarlo ver los puntos donde se marcaban las tasas en el gráfico y el modelo que mayor se adecuaba a ello, también ayudo a obtener los coeficientes de determinación (𝑅2) de manera precisa para ver que modelo funcional se adecuaba más al análisis, teniendo en cuenta lo que planteamos para este proyecto y las tecnologías usadas. 
 
 REPRESENTACIÓN GRAFICA Y SELECCION DE MODELO
+<img width="1464" height="668" alt="Captura de pantalla 2026-02-19 140333" src="https://github.com/user-attachments/assets/7e50a388-7674-417f-9cf0-22623c6c3082" />
   Justificación de Selección de Modelo: Se uso dos modelos principales para el descenso de la tasa de homicidios. Por contexto de la realidad la tasa de mortalidad nunca es menor a 0, se inicio con modelado lineal porque es el modelo mas sencillo de trabajar, pero al hacerlo también con modelo polinómico daba a una tasa negativa a 0. Al hacerlo con modelo exponencial se observo que era el único que no daba un decrecimiento menor a 0. Se la diferenció con colores para una mejor lectura. 
       • Modelo Lineal (Recta Rosa): Presento un coeficiente de det. 𝑅2 ≈ 0,88 
       • Modelo Exponencial (Curva Naranja): Presento un coeficiente de det. 𝑅12 ≈ 0,87 
