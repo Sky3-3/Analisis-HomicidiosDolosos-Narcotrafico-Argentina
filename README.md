@@ -52,5 +52,6 @@ FUNDAMENTACIÓN Y LIMITACIONES DEL ANÁLISIS
 Es esencial remarcar que el pronóstico está sujeto a limitaciones propias del análisis de factores sociales claves y la falta de datos del año anterior 2025, y que2026 aun no finalizo, lo cual lleva a limitaciones. 
   1. La extrapolación asume que las condiciones actuales (políticas, gubernamentales, geopolíticas, socioeconómicas, etc.) se mantendrán iguales. Si alguna cambia por ejemplo menos inversión y menos ganas de combatir el problema social y políticamente, podría alterar la curva real. 
   2. Datos faltantes de 2 años 2025 y 2026. Puede haber errores en los próximos 3 años de mi pronostico debido a que se extrapolo desde 2025, lo cual puede presentar fallas en el análisis. La falta se da porque SNIC publica en cierto desfase temporal, por eso es que mi análisis se basa en la ultima vez que se publicaron datos oficiales. 
-CONCLUSIÓN: El análisis, hace ver la tendencia es decreciente. Lo cual si sigue las condiciones para el 2029 la baja será de 2,96. Los modelos son fundamental para decisiones en contexto real
+
+CONCLUSIÓN: El análisis, hace ver la tendencia es decreciente. Lo cual si sigue las condiciones para el 2029 la baja será de 2,96. Los modelos son fundamental para     decisiones en contexto real
 
